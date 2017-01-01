@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hickers Watch</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="textViewHeader">Hicker\'s Watch</string>
+    <string name="locationAddressInfo">106 Thunderbird Drive \nHarvest, AL 35749 \nUSA</string>
+</resources>
